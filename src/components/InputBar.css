@@ -1,0 +1,17 @@
+.main-input{
+    top:100vh;
+    width: 80%;
+    height: 30px;
+    border: 1px solid #000;
+    text-align: center;
+    border-radius: 10px;    
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 10px;
+    background-color: #522f9e;
+    color: #f8f8f83a; 
+}
+output{
+    color: red;
+    text-align: center;
+}
